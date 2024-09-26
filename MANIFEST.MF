@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: Richard Andrade
+Main-Class: Login
+X-COMMENT: Programa Bancario Java que te calcula depósitos y retiros
+
+ 
